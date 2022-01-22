@@ -1,12 +1,14 @@
 ### Hi there, I'm Yeabsra - aka [Yeabu][website] 👋 
 
-[<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][sphere]
+[<img align="center" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][sphere]
+
+<br />
+
 ## I'm a Student, Engineer, and Developer!!
 
 - 🌱 I’m currently learning everything lol 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Create more awesome apps
-
 ### Connect with me:
 
 [<img align="left" alt="yeabu.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -14,7 +16,6 @@
 [<img align="left" alt="yeabu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="yeabu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yeabu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="yeabu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -45,5 +46,4 @@
 [youtube]: https://www.youtube.com/channel/UCIwRLEtouGa3bjfYCiAaGLQ
 [instagram]: https://instagram.com/yeabu369
 [linkedin]: https://www.linkedin.com/in/yeabsra-hailu-7b5a19165/
-[discord]: https://discord.gg/yeabu#3160
 [sphere]: https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif
