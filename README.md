@@ -1,6 +1,6 @@
 ### Hi there, I'm Yeabsra - aka [Yeabu][website] 👋 
 
-[<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />]
+[<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][sphere]
 ## I'm a Student, Engineer, and Developer!!
 
 - 🌱 I’m currently learning everything lol 🤣
@@ -46,3 +46,4 @@
 [instagram]: https://instagram.com/yeabu369
 [linkedin]: https://www.linkedin.com/in/yeabsra-hailu-7b5a19165/
 [discord]: https://discord.gg/yeabu#3160
+[sphere]: https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif
