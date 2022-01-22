@@ -1,8 +1,6 @@
 ### Hi there, I'm Yeabsra - aka [Yeabu][website] 👋 
 
-[<img align="center" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][sphere]
-
-<br />
+[<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][sphere]
 
 ## I'm a Student, Engineer, and Developer!!
 
