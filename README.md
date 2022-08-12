@@ -39,7 +39,7 @@
 
 ---
 
-[website]: https://yeabu.vercel.app
+[website]: https://yeabsrahailu.vercel.app
 [twitter]: https://twitter.com/hailuyeabsra
 [youtube]: https://www.youtube.com/channel/UCIwRLEtouGa3bjfYCiAaGLQ
 [instagram]: https://instagram.com/yeabu369
