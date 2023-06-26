@@ -2,7 +2,7 @@
 
 [<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][sphere]
 
-## I'm a Computer Engineer and Developer!!
+## I'm a 💻 Engineer and Developer!!
 
 - 🌱 I’m currently learning Java lol 🤣
 - 👯 I’m looking to collaborate with other developers
