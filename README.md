@@ -4,7 +4,7 @@
 
 ## I'm a 💻 Engineer and Developer!!
 
-- 🌱 I’m currently learning Java lol 🤣
+- 🌱 I’m currently using Java lol 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Create more awesome apps
 ### Connect with me:
