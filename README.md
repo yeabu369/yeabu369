@@ -1,12 +1,13 @@
-### Hi there, I'm Yeabsra - aka [Yeabu][website] 👋 
+### Hi there, I'm Yeabsra Hailu - aka [Yeabu][website] 👋 
 
 [<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][sphere]
 
 ## I'm a 💻 Engineer and Developer!!
 
-- 🌱 I’m currently using Java lol 🤣
+- 🌱 I’m currently using Java 😁
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Create more awesome apps
+
 ### Connect with me:
 
 [<img align="left" alt="yeabu.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
