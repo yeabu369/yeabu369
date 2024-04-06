@@ -1,6 +1,6 @@
 ### Hi there, I'm Yeabsra Hailu - aka [Yeabu][website] 👋 
 
-[<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][sphere]
+[<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][tetrahedron]
 
 ## I'm a 💻 Engineer!!
 
@@ -45,4 +45,4 @@
 [youtube]: https://www.youtube.com/channel/UCIwRLEtouGa3bjfYCiAaGLQ
 [instagram]: https://instagram.com/yeabu369
 [linkedin]: https://www.linkedin.com/in/yeabsra-hailu-7b5a19165/
-[sphere]: https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif
+[tetrahedron]: https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif
