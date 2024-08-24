@@ -1,4 +1,4 @@
-### Hi there, I'm Yeabsra Hailu - aka [Yeabu][website] 👋 
+### Hi there, I'm Yeabsra Hailu - aka [Yeab][website] 👋 
 
 [<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][tetrahedron]
 
