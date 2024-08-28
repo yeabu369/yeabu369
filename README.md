@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently using Java 😁
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Create more awesome apps
+- 🥅 2025 Goals: Test in Production
 
 ### Connect with me:
 
