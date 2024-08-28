@@ -1,6 +1,6 @@
 ### Hi there, I'm Yeabsra Hailu - aka [Yeab][website] 👋 
 
-[<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/l4FGE9ijooffYHbLG/giphy.gif" />][tetrahedron]
+[<img align="right" alt="yeabu.vercel.app" width="248px" src="https://media.giphy.com/media/ynd6NfYJ5DB6pbUHVD/giphy.gif" />][tetrahedron]
 
 ## I'm a 💻 Engineer!!
 
