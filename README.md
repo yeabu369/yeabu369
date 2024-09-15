@@ -4,7 +4,7 @@
 
 ## I'm a 💻 Engineer!!
 
-- 🌱 I’m currently using Java 😁
+- 🌱 I’m currently using Java 😁 and Typescript
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2025 Goals: Test in Production
 
